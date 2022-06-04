@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Akademik author="Maribelajarcoding">
+     <mahasiswa>
+         <nim>2021001</nim>
+         <nama>Fikri Rijal</nama>
+         <fakultas>FIKOM</fakultas>
+         <prodi>Marketing</prodi>
+         <gender>Laki-laki</gender>
+         <alamat>DKI Jakarta</alamat>
+     </mahasiswa>
+     <mahasiswa>
+        <nim>2021002</nim>
+        <nama>Irfan Hakim</nama>
+        <fakultas>FASILKOM</fakultas>
+        <prodi>Informatika</prodi>
+        <gender>Laki-laki</gender>
+        <alamat>Bandung</alamat>
+    </mahasiswa>
+    <mahasiswa>
+        <nim>2021003</nim>
+        <nama>Intan</nama>
+        <fakultas>FH</fakultas>
+        <prodi>Hukum Pidana</prodi>
+        <gender>Perempuan</gender>
+        <alamat>Makasar</alamat>
+    </mahasiswa>
+    <mahasiswa>
+        <nim>2021004</nim>
+        <nama>Funy</nama>
+        <fakultas>FE</fakultas>
+        <prodi>Manajemen</prodi>
+        <gender>Perempuan</gender>
+        <alamat>Surabaya</alamat>
+    </mahasiswa>
+</Akademik>
